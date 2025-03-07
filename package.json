@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "@lynx-js/react": "^0.105.0",
-    "@rspack/core": "^1.2.7"
+    "@rspack/core": "^1.2.7",
+    "react-router": "^7.3.0"
   },
   "devDependencies": {
     "@lynx-js/qrcode-rsbuild-plugin": "^0.3.3",
